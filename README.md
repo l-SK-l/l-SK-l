@@ -9,7 +9,7 @@ I have a background in network engineering and security, I am proficient in a ra
 * 🌍  I'm based in Serbia
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/sergei-kozlov-qa/)
 * 🚀  I'm currently working on [Orion Innovation](http://https://www.orioninc.com/company/)
-* 🤝  I'm open to collaborating on Performance testing, FW testing
+* 🤝  I'm open to collaborating on Performance testing, QA testing
 
 ### Skills
 
@@ -21,7 +21,7 @@ I have a background in network engineering and security, I am proficient in a ra
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/256/grafana.png" width="36" height="36" alt="grafana" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/linux.png" width="36" height="36" alt="linux" /></a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/jmeter_square.svg" width="36" height="36" alt="jmeter" /></a>
-<a href="https://k6.io/" target="_blank" rel="noreferrer"><img src="https://k6.io/blog/static/544f754d65da61fcc8bfb74107c19c63/28767/k6-logo.png" width="36" height="36" alt="k6" /></a>
+<a href="https://k6.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" width="36" height="36" alt="k6" /></a>
 </p>
 
 ### Socials
