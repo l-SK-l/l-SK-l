@@ -16,7 +16,10 @@ I have a background in network engineering and security, I am proficient in a ra
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
- <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://blog.insane.engineer/images/logo_zabbix.png" width="36" height="36" alt="Git" /></a>
+<a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://blog.insane.engineer/images/logo_zabbix.png" width="36" height="36" alt="zabbix" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://blog.insane.engineer/images/jenkins_logo.png" width="36" height="36" alt="jenkins" /></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/256/grafana.png" width="36" height="36" alt="grafana" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/linux.png" width="36" height="36" alt="linux" /></a>
 </p>
 
 ### Socials
