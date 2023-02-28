@@ -22,6 +22,7 @@ I have a background in network engineering and security, I am proficient in a ra
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/256/linux.png" width="36" height="36" alt="linux" /></a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/jmeter_square.svg" width="36" height="36" alt="jmeter" /></a>
 <a href="https://k6.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" width="36" height="36" alt="k6" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="postman" /></a>
 </p>
 
 ### Socials
