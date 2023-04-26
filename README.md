@@ -9,7 +9,7 @@ I have a background in network engineering and security, I am proficient in a ra
 * 🌍  I'm based in Serbia
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/sergei-kozlov-qa/)
 * 🚀  I'm currently working on [Orion Innovation](http://https://www.orioninc.com/company/)
-* 🤝  I'm open to collaborating on Performance testing, QA testing
+* 🤝  I'm open to collaborating on Performance testing and QA testing
 
 ### Skills
 
