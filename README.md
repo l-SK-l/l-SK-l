@@ -24,8 +24,13 @@ I have a background in network engineering and security, I am proficient in a ra
 <a href="https://k6.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" width="36" height="36" alt="k6" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="postman" /></a>
 <a href="https://playwright.dev/python/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/python/img/playwright-logo.svg" width="36" height="36" alt="playwright" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
 
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/sergei-kozlov-qa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<a href="https://linkedin.com/in/sergei-kozlov-qa" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
