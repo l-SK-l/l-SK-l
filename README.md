@@ -24,6 +24,7 @@ I have a background in network engineering and security, I am proficient in a ra
 <a href="https://www.keysight.com/us/en/products/network-security/breakingpoint.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ixia_logo.svg/200px-Ixia_logo.svg.png" width="36" height="36" alt="grafana" /></a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/jmeter_square.svg" width="36" height="36" alt="jmeter" /></a>
 <a href="https://k6.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" width="36" height="36" alt="k6" /></a>
+<a href="https://github.com/yandex/yandex-tank" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Yandex.Tank_logo.jpg" width="36" height="36" alt="k6" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="postman" /></a>
 <a href="https://playwright.dev/python/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/python/img/playwright-logo.svg" width="36" height="36" alt="playwright" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
