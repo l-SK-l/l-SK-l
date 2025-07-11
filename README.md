@@ -14,6 +14,7 @@ As a Senior QA Engineer, my career journey spans network engineering, security d
 ### 💡Learning projects
 | Repository Name    | Brief Description (Technology/Utility Learned) |
 | -------- | ------- |
+| [autotests-ui](https://github.com/l-SK-l/autotests-ui) | Playwright, Pytest, Allure, CI |
 | [autotests-api](https://github.com/l-SK-l/autotests-api) | Python, Pytest, Allure, CI |
 | [HomeLab](https://github.com/l-SK-l/HomeLab) | Tools |
 | [Yandex-Tank-influxDB-Grafana](https://github.com/l-SK-l/Yandex-Tank-influxDB-Grafana) | Performance, YandexTank |
